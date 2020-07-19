@@ -33,7 +33,7 @@ I'm Rohit Mathew, a Full Stack Developer from India. Currently, I am a SDE [@tur
   
 ## Talking about Personal Stuffs
 
-- Read my blogs: [Harsh Blog](https://medium.com/@rohitjmathew)
+- Read my blogs: [Rohit's Blog](https://medium.com/@rohitjmathew)
 - Portfolio site: [Portfolio](https://www.rohitjmathew.space/)
 - I’m currently working on [Mintpro](https://play.google.com/store/apps/details?id=in.mintpro)
 - Check out what I'm listening to on [Spotify]()

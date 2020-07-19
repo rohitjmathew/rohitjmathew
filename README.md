@@ -17,6 +17,9 @@
   <img align="left" alt="Rohit's Medium Blog" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/spotify.svg" />
 </a>
 
+<br/>
+
+
 ## About
 
 I'm Rohit Mathew, a Full Stack Developer from India. Currently, I am a SDE [@turtlemint](https://github.com/turtlemint) building scalable and reliable products for our users. I am also a former SDE Intern [@HackerRank](https://github.com/interviewstreet). While my interests currently lie in the development of scalable backend solutions, DevOps and in smart AI based system, I'm excited by almost anything in tech.
@@ -36,5 +39,3 @@ I'm Rohit Mathew, a Full Stack Developer from India. Currently, I am a SDE [@tur
 - Check out what I'm listening to on [Spotify]()
 - Ask me about anything, I am happy to help
 - How to reach me: rohitjmathew@outlook.com
-
-![visitors](https://visitor-badge.glitch.me/badge?page_id=rohitjmathew.rohitjmathew)

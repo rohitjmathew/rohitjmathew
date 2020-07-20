@@ -1,4 +1,4 @@
-# Rohit Mathew - @rohitjmathew
+# Rohit Jacob Mathew - @rohitjmathew
 
 <!-- 
 <a href="https://www.linkedin.com/in/rohitjmathew/">
@@ -20,7 +20,7 @@
 <br/>
 -->
 
-Hi 👋🏽, I'm Rohit Mathew, a Full Stack Developer from India. Currently, I am a SDE [@turtlemint](https://github.com/turtlemint) building scalable and reliable products for our users. I am also a former SDE Intern [@HackerRank](https://github.com/interviewstreet). While my interests currently lie in the development of scalable backend solutions, DevOps and in smart AI based system, I'm excited by almost anything in tech.
+Hi 👋🏽, I'm Rohit Jacob Mathew, a Full Stack Developer from India. Currently, I am a SDE [@turtlemint](https://github.com/turtlemint) building scalable and reliable products for our users. I am also a former SDE Intern [@HackerRank](https://github.com/interviewstreet). While my interests currently lie in the development of scalable backend solutions, DevOps and in smart AI based system, I'm excited by almost anything in tech.
 
 ## If I'm not coding, I am generally
 

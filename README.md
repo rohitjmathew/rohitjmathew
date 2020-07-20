@@ -32,7 +32,7 @@ Hi 👋🏽, I'm Rohit Mathew, a Full Stack Developer from India. Currently, I a
 ## Talking about Personal Stuffs
 
 - Ask me about anything, I am happy to help
-- Read my blogs: https://medium.com/@rohitjmathew
+- Read my blog: https://medium.com/@rohitjmathew
 - Portfolio Site: https://www.rohitjmathew.space/
 - Technical Papers: [Google Scholar](https://scholar.google.co.in/citations?user=7moht3YAAAAJ&hl=en)
 - I’m currently working on [Mintpro](https://play.google.com/store/apps/details?id=in.mintpro)

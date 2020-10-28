@@ -28,6 +28,8 @@ Hi 👋🏽, I'm Rohit Jacob Mathew, a Software Development Engineer from India.
 - Binging Spotify playlists to find new unheard of artists
 - Going for Gigs and Music Festivals
 - Playing/Watching Football
+- Trying new craft beers
+- Attempting to not be an out of practice musician
   
 ## Talking about Personal Stuffs
 

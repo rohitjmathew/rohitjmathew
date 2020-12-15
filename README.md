@@ -8,13 +8,13 @@
   <img align="left" alt="Rohit's Medium Blog" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />
 </a>
 <a href="https://scholar.google.co.in/citations?user=7moht3YAAAAJ&hl=en">
-  <img align="left" alt="Rohit's Medium Blog" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/googlescholar.svg" />
+  <img align="left" alt="Rohit's Google Scholar Profile" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/googlescholar.svg" />
 </a>
 <a href="https://www.rohitjmathew.space/">
-  <img align="left" alt="Rohit's Medium Blog" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gatsby.svg" />
+  <img align="left" alt="Rohit's Personal Site" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gatsby.svg" />
 </a>
 <a href="https://open.spotify.com/user/21loszaq56ntdqmategugxofa?si=56YIorANSaeliPYWb5ulUQ">
-  <img align="left" alt="Rohit's Medium Blog" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/spotify.svg" />
+  <img align="left" alt="Rohit's Spotify Profile" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/spotify.svg" />
 </a>
 
 <br/>
@@ -34,7 +34,7 @@ Hi 👋🏽, I'm Rohit Jacob Mathew, a Software Development Engineer from India.
 ## Talking about Personal Stuffs
 
 - Ask me about anything, I am happy to help
-- Read my blog: https://medium.com/@rohitjmathew
+- Read my blog: https://medium.com/@rohitjmathew and https://dev.to/rohitjmathew
 - Portfolio Site: https://www.rohitjmathew.space/
 - Technical Papers: [Google Scholar](https://scholar.google.co.in/citations?user=7moht3YAAAAJ&hl=en)
 - I’m currently working on [Mintpro](https://play.google.com/store/apps/details?id=in.mintpro)

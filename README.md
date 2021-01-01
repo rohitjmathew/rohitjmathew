@@ -1,6 +1,6 @@
 # Rohit Jacob Mathew - @rohitjmathew
 
-Hi 👋🏽, I'm Rohit Jacob Mathew, a Software Development Engineer from India. I am currently working on scaling and building a reliable product for agents to sell insurance at [@turtlemint](https://github.com/turtlemint). I am also an [@Auth0](https://github.com/auth0) Ambassador and a former SDE Intern [@HackerRank](https://github.com/interviewstreet). While my interests currently lie in the development of scalable solutions, DevOps, Developer Relations/Dev Evangelism as well as smart AI based system, I'm excited by almost anything in tech.
+Hi 👋🏽, I'm Rohit Jacob Mathew, a Senior Software Engineer from India. I am currently working on scaling and building a reliable product for agents to sell insurance at [@turtlemint](https://github.com/turtlemint). I am also an [@Auth0](https://github.com/auth0) Ambassador and a former SDE Intern [@HackerRank](https://github.com/interviewstreet). While my interests currently lie in the development of scalable solutions, DevOps, Developer Relations/Dev Evangelism as well as smart AI based system, I'm excited by almost anything in tech.
 
 ## If I'm not coding, I am generally
 
@@ -21,4 +21,3 @@ Hi 👋🏽, I'm Rohit Jacob Mathew, a Software Development Engineer from India.
 - I’m currently working on [Mintpro](https://play.google.com/store/apps/details?id=in.mintpro)
 - Check out what I'm listening to on [Spotify](https://open.spotify.com/user/21loszaq56ntdqmategugxofa?si=56YIorANSaeliPYWb5ulUQ)
 - You can reach me on: [Linkedin](https://www.linkedin.com/in/rohitjmathew/) or [Email](mailto:rohitjmathew@outlook.com)
- 

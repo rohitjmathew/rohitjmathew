@@ -1,6 +1,6 @@
 # Rohit Jacob Mathew - @rohitjmathew
 
-Hi 👋🏽, I'm Rohit Jacob Mathew, a Software Engineer from India working on building SecOps products at [McAfee Enterprise](https://www.mcafee.com/enterprise/en-us/home.html). I am also an [Auth0 Ambassador](https://auth0.com/ambassador-program), a former Senior Software Engineer at [Turtlemint](https://www.turtlemint.com/) and a former SDE Intern at [HackerRank](https://www.hackerrank.com/). While my interests currently lie in the development of scalable solutions, DevOps, Developer Relations/Dev Evangelism as well as smart AI based system, I'm excited by almost anything in tech.
+Hi 👋🏽, I'm Rohit Jacob Mathew, a Software Engineer from India working on building SecOps products at [Trellix](https://www.trellix.com/en-us/index.html). I am also an [Auth0 Ambassador](https://auth0.com/ambassador-program), a former Senior Software Engineer at [Turtlemint](https://www.turtlemint.com/) and a former SDE Intern at [HackerRank](https://www.hackerrank.com/). While my interests currently lie in the development of scalable solutions, DevOps, Developer Relations/Dev Evangelism as well as smart AI based system, I'm excited by almost anything in tech.
 
 ## If I'm not coding, I am generally
 
